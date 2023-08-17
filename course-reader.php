@@ -1,6 +1,6 @@
 <?php
 
-$fileName = __DIR__ . "/lista-cursos.txt";
+$fileName = __DIR__ . "/courses-list.txt";
 $file = fopen($fileName, "r");
 
 /**
